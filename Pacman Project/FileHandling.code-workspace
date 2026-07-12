@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documents/OOPs Lab/FileHandling"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Practice Lab"
+		},
+		{
+			"path": "../Database Lab 2"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			""
+		]
+	}
+}
